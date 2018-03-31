@@ -1,0 +1,16 @@
+{
+  "name": "paperpanks.io",
+  "version": "1.0.0",
+  "description": "My first node.js app",
+  "main": "index.html",
+  "dependencies": {
+    "material-components-web": "^0.33.0"
+  },
+  "engines": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paperpanks"
+  },
+  "author": "Pankaj",
+  "license": "MIT"
+}
